@@ -12,7 +12,7 @@ function App() {
 	return (
 		<div className="App">
     <header className='bg-teal-500 mb-'>
-    <img src="/images/bg-header-desktop.svg" />
+    <img src="images/bg-header-desktop.svg" />
     </header>
 			{jobs.length === 0 ? (
 				<p>Searching...</p>
