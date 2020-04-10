@@ -14,7 +14,7 @@ const JobBoard = ({ job: {id,company,logo,isNew,featured,position,role,level,pos
 		<>
 			<div className={`flex flex-col bg-white shadow-lg my-16 p-6 rounded-lg ${featured && 'border-l-4 border-teal-600 border-solid'} sm:flex-row sm:mx-8 sm:my-8`}>
 				<div className='sm:flex sm:items-center'>
-					<img className='-mt-16 mb-4 sm:my-0 sm:py-0 sm:w-40 sm:h-40' src={logo} alt={`${company} Logo`} />
+					<img className='-mt-16 mb-4 sm:my-0 sm:py-0 sm:w-40 sm:h-40 sm:ml-4' src={logo} alt={`${company} Logo`} />
 				</div>
 				<div className='flex flex-col justify-between ml-4'>
 					<h4 className='font-bold text-blue-600 text-base flex flex-wrap'>

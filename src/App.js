@@ -12,14 +12,15 @@ function App() {
 	return (
 		<div className="App">
     <header className='bg-teal-500 mb-'>
-    <h1>test</h1>
-    <img src="/images/bg-header-desktop.svg" />
+    <img alt="header" src="./images/bg-header-desktop.svg" />
     </header>
+    <div className="container m-auto">
 			{jobs.length === 0 ? (
 				<p>Searching...</p>
 			) : (
 				jobs.map((job) => <JobBoard job={job} key={job.id} />)
 			)}
+      </div>
 		</div>
 	);
 }
