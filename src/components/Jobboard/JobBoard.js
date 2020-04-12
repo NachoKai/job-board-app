@@ -28,7 +28,7 @@ const JobBoard = ({
   return (
     <>
       <div
-        className={`flex flex-col bg-white shadow-lg my-16 p-6 rounded-lg ${
+        className={`flex flex-col bg-white shadow-lg mx-2 my-16 p-6 rounded-lg ${
           featured && "border-l-4 border-teal-600 border-solid"
         } sm:flex-row sm:mx-8 sm:my-8`}
       >
