@@ -11,8 +11,12 @@ function App() {
 
   return (
     <div className="App">
-      <header className="bg-teal-500 mb-">
-        <img alt="header" src="./images/bg-header-desktop.svg" />
+      <header className="bg-teal-500 mb- w-screen">
+        <img
+          className="w-screen"
+          alt="header"
+          src="./images/bg-header-desktop.svg"
+        />
       </header>
       <div className="container m-auto">
         {jobs.length === 0 ? (
