@@ -34,7 +34,7 @@ const JobBoard = ({
       >
         <div className="sm:flex sm:items-center">
           <img
-            className="-mt-16 w-screen mb-4 sm:my-0 sm:py-0 sm:w-40 sm:h-40 sm:ml-4"
+            className="-mt-16 mb-4 sm:my-0 sm:py-0 sm:w-40 sm:h-40 sm:ml-4"
             src={logo}
             alt={`${company} Logo`}
           />
