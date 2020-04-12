@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a506d9950435a72e429bfc18bda15d76",
+    "revision": "6e1b585f1ff952784ea1aeeb04232ffc",
     "url": "/job-board-app/index.html"
   },
   {
-    "revision": "e09874bb6c93de3df240",
+    "revision": "7266d1b0f99e2f09792f",
     "url": "/job-board-app/static/css/main.498d002a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/job-board-app/static/js/2.31011cd0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e09874bb6c93de3df240",
-    "url": "/job-board-app/static/js/main.f1769b63.chunk.js"
+    "revision": "7266d1b0f99e2f09792f",
+    "url": "/job-board-app/static/js/main.838500ad.chunk.js"
   },
   {
     "revision": "f8628294f3e4e2ac9998",
