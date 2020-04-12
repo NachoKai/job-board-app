@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/job-board-app/static/css/main.498d002a.chunk.css",
-    "main.js": "/job-board-app/static/js/main.57089fe8.chunk.js",
-    "main.js.map": "/job-board-app/static/js/main.57089fe8.chunk.js.map",
+    "main.js": "/job-board-app/static/js/main.f2872004.chunk.js",
+    "main.js.map": "/job-board-app/static/js/main.f2872004.chunk.js.map",
     "runtime-main.js": "/job-board-app/static/js/runtime-main.7bc1aedb.js",
     "runtime-main.js.map": "/job-board-app/static/js/runtime-main.7bc1aedb.js.map",
     "static/js/2.31011cd0.chunk.js": "/job-board-app/static/js/2.31011cd0.chunk.js",
     "static/js/2.31011cd0.chunk.js.map": "/job-board-app/static/js/2.31011cd0.chunk.js.map",
     "index.html": "/job-board-app/index.html",
-    "precache-manifest.7c0ce1179ad62a95e5c181a0b14daec6.js": "/job-board-app/precache-manifest.7c0ce1179ad62a95e5c181a0b14daec6.js",
+    "precache-manifest.cdc4be5660fb558eb473935f4bceb8f7.js": "/job-board-app/precache-manifest.cdc4be5660fb558eb473935f4bceb8f7.js",
     "service-worker.js": "/job-board-app/service-worker.js",
     "static/css/main.498d002a.chunk.css.map": "/job-board-app/static/css/main.498d002a.chunk.css.map",
     "static/js/2.31011cd0.chunk.js.LICENSE.txt": "/job-board-app/static/js/2.31011cd0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7bc1aedb.js",
     "static/js/2.31011cd0.chunk.js",
     "static/css/main.498d002a.chunk.css",
-    "static/js/main.57089fe8.chunk.js"
+    "static/js/main.f2872004.chunk.js"
   ]
 }
