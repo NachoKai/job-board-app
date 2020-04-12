@@ -41,7 +41,7 @@ const JobBoard = ({
         </div>
         <div className="flex flex-col justify-evenly ml-4">
           <h4 className="font-bold text-blue-600 text-base flex flex-wrap">
-            {company}
+            <span className="text-lg">{company}</span>
             {isNew && (
               <span className="ml-4 text-xs m-1 py-1 px-2 rounded-full font-bold text-white bg-teal-600">
                 NEW
@@ -53,7 +53,7 @@ const JobBoard = ({
               </span>
             )}
           </h4>
-          <h2 className="font-bold text-xl my-2">{position}</h2>
+          <h2 className="font-bold text-2xl my-2">{position}</h2>
           <p className="font-thin text- text-gray-700">
             {postedAt} • {contract} • {location}
           </p>
